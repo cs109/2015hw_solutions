@@ -1,0 +1,36 @@
+d_candidate,d_incumbent,d_pct,d_votes,o_candidate,o_incumbent,o_pct,o_votes,other,r_candidate,r_incumbent,r_pct,r_votes,state,status,winner,winrepub,spread
+Mark Pryor,True,39.5%,"332,669",,,,,0,Tom Cotton,False,56.5%,"476,309",AR,ok,gop,1,17.0
+Mark Udall,True,46.0%,"916,245",,,,,0,Cory Gardner,False,48.5%,"965,974",CO,ok,gop,1,2.5
+Michelle Nunn,False,45.1%,"1,154,388",Amanda Swafford,False,1.9%,"48,930",lib,David Perdue,False,53.0%,"1,355,392",GA,ok,gop,1,7.899999999999999
+Bruce Braley,False,43.7%,"491,708",,,,,0,Joni Ernst,False,52.2%,"586,921",IA,ok,gop,1,8.5
+,,,,Greg Orman,False,42.5%,"358,898",ind,Pat Roberts,True,53.3%,"449,974",KS,ok,gop,1,10.799999999999995
+Alison Lundergan Grimes,False,40.7%,"584,699",,,,,0,Mitch McConnell,True,56.2%,"806,795",KY,ok,gop,1,15.5
+Mary Landrieu,True,42.1%,"618,840",Rob Maness,False,13.8%,"202,413",gop2,Bill Cassidy,False,41.0%,"602,439",LA,ok,gop,1,-1.1000000000000014
+Jeanne Shaheen,True,51.6%,"250,722",,,,,0,Scott Brown,False,48.4%,"234,846",NH,ok,dem,0,-3.200000000000003
+Kay Hagan,True,47.3%,"1,364,758",,,,,0,Thom Tillis,False,49.0%,"1,413,269",NC,ok,gop,1,1.7000000000000028
+Mark Warner,True,49.2%,"1,071,283",,,,,0,Ed Gillespie,False,48.4%,"1,054,556",VA,ok,dem,0,-0.8000000000000043
+Mark Begich,True,45.6%,"111,668",,,,,0,Dan Sullivan,False,48.8%,"119,579",AK,ok,gop,1,3.199999999999996
+Christopher Coons,True,55.8%,"130,645",,,,,0,Kevin Wade,False,42.2%,"98,819",DE,ok,dem,0,-13.599999999999996
+Brian Schatz,True,69.8%,"246,720",,,,,0,Cam Cavasso,False,27.7%,"97,972",HI,ok,dem,0,-42.1
+Nels Mitchell,False,34.7%,"151,697",,,,,0,Jim Risch,True,65.3%,"285,322",ID,ok,gop,1,30.599999999999994
+Dick Durbin,True,53.1%,"1,850,862",,,,,0,Jim Oberweis,False,43.1%,"1,503,942",IL,ok,dem,0,-10.0
+Shenna Bellows,False,31.6%,"189,653",,,,,0,Susan Collins,True,68.4%,"411,211",ME,ok,gop,1,36.8
+Ed Markey,True,62.0%,"1,285,736",,,,,0,Brian Herr,False,38.0%,"789,378",MA,ok,dem,0,-24.0
+Gary Peters,False,54.6%,"1,693,781",,,,,0,Terri Lynn Land,False,41.4%,"1,283,850",MI,ok,dem,0,-13.200000000000005
+Al Franken,True,53.2%,"1,052,794",,,,,0,Mike McFadden,False,42.9%,"849,932",MN,ok,dem,0,-10.300000000000004
+Travis Childers,False,37.4%,"228,974",,,,,0,Thad Cochran,True,60.4%,"370,208",MS,ok,gop,1,23.0
+Amanda Curtis,False,40.0%,"145,601",,,,,0,Steve Daines,False,57.9%,"210,863",MT,ok,gop,1,17.9
+Dave Domina,False,31.1%,"162,874",,,,,0,Ben Sasse,False,64.8%,"339,868",NE,ok,gop,1,33.7
+Cory Booker,True,55.8%,"1,016,204",,,,,0,Jeff Bell,False,42.4%,"772,991",NJ,ok,dem,0,-13.4
+Tom Udall,True,55.4%,"280,074",,,,,0,Allen Weh,False,44.6%,"225,706",NM,ok,dem,0,-10.799999999999995
+Matt Silverstein,False,28.5%,"233,932",,,,,0,Jim Inhofe,True,68.0%,"557,537",OK,ok,gop,1,39.5
+Connie Johnson,False,29.0%,"237,531",,,,,0,James Lankford,False,67.9%,"556,382",OK2,ok,gop,1,38.90000000000001
+Jeff Merkley,True,55.8%,"744,516",,,,,0,Monica Wehby,False,37.3%,"498,191",OR,ok,dem,0,-18.5
+Jack Reed,True,70.7%,"222,776",,,,,0,Mark Zaccaria,False,29.3%,"92,389",RI,ok,dem,0,-41.40000000000001
+Brad Hutto,False,38.9%,"475,532",,,,,0,Lindsey Graham,True,54.5%,"665,605",SC,ok,gop,1,15.6
+Joyce Dickerson,False,37.1%,"454,279",,,,,0,Tim Scott,True,61.2%,"749,266",SC2,ok,gop,1,24.1
+Rick Weiland,False,29.5%,"82,408",Larry Pressler,False,17.1%,"47,728",ind,Mike Rounds,False,50.4%,"140,721",SD,ok,gop,1,20.9
+Gordon Ball,False,31.8%,"437,175",,,,,0,Lamar Alexander,True,61.9%,"849,748",TN,ok,gop,1,30.1
+David Alameel,False,34.4%,"1,594,252",,,,,0,John Cornyn,True,61.6%,"2,855,068",TX,ok,gop,1,27.200000000000006
+Natalie Tennant,False,34.5%,"155,456",,,,,0,Shelley Moore Capito,False,62.1%,"280,123",WV,ok,gop,1,27.6
+Charlie Hardy,False,17.6%,"29,043",,,,,0,Mike Enzi,True,72.3%,"119,534",WY,ok,gop,1,54.7
